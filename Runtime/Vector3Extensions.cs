@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BobboNet.Vector3Extensions
+namespace BobboNet.Extensions
 {
     public static class Vector3Extensions
     {
