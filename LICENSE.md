@@ -1,4 +1,4 @@
-MIT License
+BOBBO-NET Friendly MIT License
 
 Copyright (c) 2023 BOBBO-NET
 
